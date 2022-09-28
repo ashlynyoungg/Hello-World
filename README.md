@@ -2,7 +2,8 @@
 *This is my readme file. This area would be used for a project description*
 ## Project Contents
 - Code
-- 
+- Files Used
+- Versioning
 ## Code
 **This is the code that was used for the program**
 
