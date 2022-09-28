@@ -1,3 +1,3 @@
 # PROJECT TITLE
 ## Project Description
-* Small overview of what project entails *
+* This is my readme project *
