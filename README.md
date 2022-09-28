@@ -1,9 +1,9 @@
 # PROJECT TITLE
 *This is my readme file. This area would be used for a project description*
 ## Project Contents
-- Code
-- Files Used
-- Versioning
+- [Code](#code)
+- [Files Used](#Files Used)
+- [Versioning](#Versioning)
 ## Code
 **This is the code that was used for the program**
 
